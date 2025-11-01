@@ -26,4 +26,4 @@ React Icons (for action buttons)
 CSS (custom styling)
 
 <h2>📸 UI Screenshot</h2>
-<img width="1905" height="907" alt="React To-Do List pic" src="https://github.com/user-attachments/assets/8c31bca1-49ad-46c4-8822-2f9e5c07d291" />
+<img width="1564" height="911" alt="To-Do or Not To-Do" src="https://github.com/user-attachments/assets/31416a2b-dfb8-4870-8ea7-ceae14b4b74f" />
